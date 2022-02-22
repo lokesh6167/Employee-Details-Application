@@ -1,0 +1,18 @@
+{
+  "employeeList": [
+    {
+      "id": "1",
+      "name": "Lokesh",
+      "gender": "Male",
+      "age": "22",
+      "salary": "675000"
+    },
+    {
+      "id": "2",
+      "name": "Harsha",
+      "gender": "Male",
+      "age": "24",
+      "salary": "120000"
+    }
+  ]
+}
